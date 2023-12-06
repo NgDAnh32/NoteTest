@@ -1,0 +1,43 @@
+      
+{/* <Layout style={styles.lightsContainer}>
+        <Animated.Image
+          entering={FadeInUp.delay(200).duration(1000).springify()}
+          source={require('../assets/img/light.png')}
+        //   style={styles.lightLarge}
+        />
+        <Animated.Image
+          entering={FadeInUp.delay(400).duration(1000).springify()}
+          source={require('../assets/img/light.png')}
+        //   style={styles.lightSmall}
+        />
+      </Layout> */}
+      {/* <Layout
+        style={{margin: 20, justifyContent: 'center', alignItems: 'center'}}>
+        <Text style={{fontSize: 20}}>Login</Text>
+      </Layout> */}
+      {/* <Layout>
+        <Input
+          style={styles.input}
+          placeholder="Email"
+          size="large"
+          value={email}
+          onChangeText={nextValue => setEmail(nextValue)}
+          accessoryLeft={EmailIcon}
+        />
+        <Input
+          style={styles.input}
+          placeholder="Password"
+          value={password}
+          size="large"
+          accessoryLeft={PasswordIcon}
+          accessoryRight={renderIcon}
+          secureTextEntry={secureTextEntry}
+          onChangeText={nextValue => setPassword(nextValue)}
+        />
+        <Button
+          style={styles.button}
+          onPress={handleLogin}
+          appearance="outline">
+          Login
+        </Button>
+      </Layout> */}
